@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>42</w>
+  <h>44</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>730799998</hash>
+  <xoffset>13</xoffset>
+  <yoffset>6</yoffset>
+  <cropWidth>42</cropWidth>
+  <cropHeight>44</cropHeight>
+  <ow>64</ow>
+  <oh>64</oh>
+  <image>spri_playerd_0.tpe.png</image>
+</TPE>

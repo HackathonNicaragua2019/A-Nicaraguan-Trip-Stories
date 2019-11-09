@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1">Default_0.png</texture>
+  <tpe x="0" y="4" tpage="Default_0" entry="2">background1.tpe</tpe>
+  <tpe x="2" y="778" tpage="Default_0" entry="3">fnt_jugar.tpe</tpe>
+  <tpe x="262" y="778" tpage="Default_0" entry="0">sprite9_0.tpe</tpe>
+  <tpe x="286" y="778" tpage="Default_0" entry="1">sprite9_1.tpe</tpe>
+</TextureGroup>

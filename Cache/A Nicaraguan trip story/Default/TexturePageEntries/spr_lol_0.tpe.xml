@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>40</w>
+  <h>40</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>298713501</hash>
+  <xoffset>12</xoffset>
+  <yoffset>11</yoffset>
+  <cropWidth>40</cropWidth>
+  <cropHeight>40</cropHeight>
+  <ow>64</ow>
+  <oh>64</oh>
+  <image>spr_lol_0.tpe.png</image>
+</TPE>
