@@ -120,7 +120,7 @@ press = false;
 draw_set_font(fnt_jugar);
 if(texto == "BLOQUEADO")
 {
-    draw_set_color(c_red);
+    draw_set_color(c_black);
 }else
 {
     draw_set_color(c_white);
