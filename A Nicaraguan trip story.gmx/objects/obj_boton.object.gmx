@@ -61,6 +61,9 @@ press = false;
     }else if(texto == "Salir")
     {
         game_end();
+    }else if(texto = "Nivel 1")
+    {
+        room_goto(room3);
     }
 }
 </string>
@@ -85,8 +88,12 @@ press = false;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_index = 1;
-press = true;
+            <string>if(texto == "BLOQUEADO")
+{
+}else{
+    image_index = 1;
+    press = true;
+}
 </string>
           </argument>
         </arguments>
@@ -111,7 +118,13 @@ press = true;
             <kind>1</kind>
             <string>draw_self();
 draw_set_font(fnt_jugar);
-draw_set_color(c_white);
+if(texto == "BLOQUEADO")
+{
+    draw_set_color(c_red);
+}else
+{
+    draw_set_color(c_white);
+}
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_text(x,y, texto);

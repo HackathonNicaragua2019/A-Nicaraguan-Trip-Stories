@@ -49,7 +49,12 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
-  <instances/>
+  <instances>
+    <instance objName="obj_boton" x="401" y="573" name="inst_7BAAD733" locked="0" code="texto = &quot;Nivel 1&quot;;" scaleX="24" scaleY="12" colour="4294967295" rotation="0"/>
+    <instance objName="obj_boton" x="1088" y="576" name="inst_E3963D26" locked="0" code="texto = &quot;BLOQUEADO&quot;;" scaleX="24" scaleY="12" colour="4294967295" rotation="0"/>
+    <instance objName="obj_boton" x="1760" y="576" name="inst_DC9ECBD3" locked="0" code="texto = &quot;BLOQUEADO&quot;;" scaleX="24" scaleY="12" colour="4294967295" rotation="0"/>
+    <instance objName="obj_boton" x="2432" y="576" name="inst_1E8AB1F1" locked="0" code="texto = &quot;BLOQUEADO&quot;;" scaleX="24" scaleY="12" colour="4294967295" rotation="0"/>
+  </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
